@@ -35,10 +35,20 @@ Expense data is stored locally using a JSON file so that the data remains availa
 
 ##  Project Structure
 
-```text
 expense-tracker-python/
 │
 ├── main.py
 ├── README.md
 ├── .gitignore
 └── .gitattributes
+
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Expense Tracker Main Menu](screenshots/main.png)
+
+### Add and View Expenses
+
+![View Expenses](screenshots/expenses.png)
